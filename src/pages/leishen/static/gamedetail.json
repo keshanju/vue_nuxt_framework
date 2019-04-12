@@ -1,0 +1,127 @@
+{
+    "code": 0,
+    "msg": "成功获取",
+    "data": {
+        "list":[{
+            "id": "1",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/game_apex.png'>",
+            "explain":"《Apex英雄》是基于科幻动作游戏IP《泰坦陨落》的一款免费大逃杀游戏，玩家在游戏中将扮演外星战场上的星空战士。是由《泰坦天降》制作组Respawn研发的一款免费大逃杀游戏。于2019年2月5日发行。《Apex英雄》共有有8个传奇角色，三名玩家组成一个小队，第一个赛季将从3月份开始，并会推出季票，每个赛季会带来新的武器、角色和皮肤等内容。",
+            "feature":"玩家团队在《Apex英雄》中，游戏目前只能记住对方id在origin里面加，等待更新后在游戏中添加。点击好友列表出现自己的好友栏，在好友栏左下角点击“添加好友”就可以进行好友添加了。或者点自己的头像，会出来自己的资料，在右上角有个搜索框可以直接搜ID。战斗系统《Apex英雄》是一款由EA发行的第一人称射击游戏，吃鸡玩法，收集物资，积累装备，然后活到最后。操作系统《Apex英雄》中实际上有一种爬墙的方式。可以通过在墙上冲刺并在向上看时按住跳跃按钮来“攀爬”至普通跳跃无法到达的高度。并且此时你的角色也会高高越过墙壁。“跳滑”在实战中非常有用，跳跃在本作中并不是躲避子弹的最佳方式，经常使用“滑动跳跃”可以在保持快速移动的基础上让你的敌人更加难以瞄准。",
+            "course":"<img style='width: 800px;' src='../img/apexjc.jpg' alt='apex在雷神加速器客户端使用教程'>",
+            "seo_title":"【APEX英雄】官方高速下载 - 雷神下载",
+            "seo_desc":"Origin平台是由EA(Electronic Arts Inc，简称EA)于2011发布的游戏平台，重金打造的全方位游戏社交平台， 集游戏数字版购买、实体版激活、下载、数据云存储、社交等功能于一体，并且正在逐步增加更多功能。平台已有500多部游戏可供激活或购买，且游戏数量与日俱增。与Origin平台紧密合作的第三方游戏公司有：Warner Bros(华纳兄弟)、Capcom(卡普空)、Atari(英宝格)、SEGA(世嘉)、Bandai(万代)、 DreamCatcher Interactive及多家著名独立游戏工作室。",
+            "seo_keywords":"APEX英雄下载,APEX英雄官方下载",
+            "banner_img":"../img/apex.jpg"
+        },{
+            "id": "2",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/game_lol_k.png'>",
+            "explain":"《英雄联盟》(简称LOL)是由美国拳头游戏(RiotGames)开发、中国大陆地区腾讯游戏代理运营的英雄对战MOBA竞技网游。游戏里拥有数百个个性英雄，并拥有排位系统、符文系统等特色养成系统。《英雄联盟》还致力于推动全球电子竞技的发展，除了联动各赛区发展职业联赛、打造电竞体系之外，每年还会举办“季中冠军赛”“全球总决赛”“AllStar全明星赛”三大世界级赛事，获得了亿万玩家的喜爱，形成了自己独有的电子竞技文化。",
+            "feature":" 1、特色皮肤系统<br>2、高手成长的必经之路<br>3、高强度、快节奏的游戏氛围<br>4、你也想偶遇faker吗？",
+            "course":"<img style='width: 800px;' src='../img/lol_hjc.jpg' alt='英雄联盟LOL韩服在雷神加速器客户端使用教程'>",
+            "seo_title":"【英雄联盟LOL韩服下载】英雄联盟LOL韩服官方高速下载 - 雷神下载",
+            "seo_desc":"英雄联盟LOL韩服(简称LOL韩服)是由美国拳头游戏(Riot Games)开发、中国大陆地区腾讯游戏代理运营的英雄对战MOBA竞技网游。 游戏里拥有数百个个性英雄，并拥有排位系统、符文系统等特色养成系统。 《英雄联盟》还致力于推动全球电子竞技的发展，除了联动各赛区发展职业联赛、打造电竞体系之外，每年还会举办“季中冠军赛”“全球总决赛”“All Star全明星赛”三大世界级赛事，获得了亿万玩家的喜爱，形成了自己独有的电子竞技文化。",
+            "seo_keywords":"英雄联盟LOL韩服下载,英雄联盟LOL韩服官方下载",
+            "banner_img":"../img/lol.jpg"
+        },{
+            "id": "3",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/game_lol_a.png'>",
+            "explain":"《英雄联盟》(简称LOL)是由美国拳头游戏(Riot Games)开发、中国大陆地区腾讯游戏代理运营的英雄对战MOBA竞技网游。游戏里拥有数百个个性英雄，并拥有排位系统、符文系统等特色养成系统。《英雄联盟》还致力于推动全球电子竞技的发展，除了联动各赛区发展职业联赛、打造电竞体系之外，每年还会举办“季中冠军赛”“全球总决赛”“All Star全明星赛”三大世界级赛事，获得了亿万玩家的喜爱，形成了自己独有的电子竞技文化。",
+            "feature":" 1、特色皮肤系统<br>2、高手成长的必经之路<br>3、高强度、快节奏的游戏氛围<br>4、你也想偶遇faker吗？",
+            "course":"<img style='width: 800px;' src='../img/lol_mjc.jpg' alt='英雄联盟LOL美服在雷神加速器客户端使用教程'>",
+            "seo_title":"【英雄联盟LOL美服下载】英雄联盟LOL美服官方高速下载 - 雷神下载",
+            "seo_desc":"英雄联盟LOL美服(简称LOL美服)是由美国拳头游戏(Riot Games)开发、中国大陆地区腾讯游戏代理运营的英雄对战MOBA竞技网游。 游戏里拥有数百个个性英雄，并拥有排位系统、符文系统等特色养成系统。 《英雄联盟》还致力于推动全球电子竞技的发展，除了联动各赛区发展职业联赛、打造电竞体系之外，每年还会举办“季中冠军赛”“全球总决赛”“All Star全明星赛”三大世界级赛事，获得了亿万玩家的喜爱，形成了自己独有的电子竞技文化。",
+            "seo_keywords":"英雄联盟LOL美服下载,英雄联盟LOL美服官方下载",
+            "banner_img":"../img/lol.jpg"
+        },{
+            "id": "4",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/game_pubg.png'>",
+            "explain":"《绝地求生》(PUBG)是一款战术竞技型射击类沙盒游戏。该游戏中，玩家需要在游戏地图上收集各种资源，并在不断缩小的安全区域内对抗其他玩家，让自己生存到最后。",
+            "feature":"《PUBGLite》将在1月24号周四正式在泰国开始公测！这个LITE版就是绝地求生推出的轻量版，以对机器设备的要求低为主要特点，那么PUBGLite怎么玩和之前的绝地求生玩法有差别吗？<br>《PUBGLite》会在极大程度上保留《绝地求生》游戏的游戏精华。<br/>包括但不限于：键位，训练场，通行证，段位系统以及好友。<br/>（训练模式看起来像《刺激战场》的训练场）",
+            "course":"<img style='width: 800px;' src='../img/pubgjc.jpg' alt='绝地求生(PUBG)在雷神加速器客户端使用教程'>",
+            "seo_title":"【绝地求生(PUBG)下载】绝地求生(PUBG)官方高速下载 - 雷神下载",
+            "seo_desc":"绝地求生(PUBG) 是一款战术竞技型射击类沙盒游戏。 该游戏中，玩家需要在游戏地图上收集各种资源，并在不断缩小的安全区域内对抗其他玩家，让自己生存到最后。",
+            "seo_keywords":"绝地求生(PUBG)下载,【绝地求生】(PUBG)官方下载",
+            "banner_img":"../img/pubg.jpg"
+        },{
+            "id": "5",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/game_zhandi.png'>",
+            "explain":"《战地5》是一款由EA制作并发行的第一人称射击游戏，该游戏为《战地》的正统续作。 <br>该游戏的画质将真正达到照片级，加入了更多的特性，更多的额外内容，更丰富的摧毁效果。",
+            "feature":"•前所未见的二次世界大战 –《战地风云》回归至系列作的开端，带来別出心裁但至关重大的战争时刻。<br>•加入支援 64 名玩家的多人模式，体会全面战争的混乱 – 在多人模式的全线战争中领导你的连队，置身广大的大行动模式等全新游戏体验。游玩征服模式等经典多人游戏模式，或者和好友一同组队进行合作协同作战。<br>•有史以来最激烈的《战地风云》– 使用全新的士兵动作組合、防御工事以及灵活的毁灭工具，穿梭整座战场。<br>•游玩未曾所述过的战争故事 – 在单人模式战争故事中见证在全球战火下的精采个人事迹。从挪威的雪山上顺滑而下，争夺核子武器供给线線的控制权。与法国殖民地军队一起加入前线。或者和一群格格不入的军队边缘緣人一同深入北非敌后大闹一番。<br>•战情浪潮 – 踏上截然不同的战斗旅程，在当中新的內容将不断从天而降，持续将你和连队送往各式各样的二战关键地点，届时将有更多战场和装备等待着你们。<br>",
+            "course":"<img style='width: 800px;' src='../img/zd5jc.png' alt='战地5在雷神加速器客户端使用教程'>",
+            "seo_title":"【战地5下载】战地5官方高速下载 - 雷神下载",
+            "seo_desc":"战地5是一款战术竞技型射击类沙盒游戏。 该游戏中，玩家需要在游戏地图上收集各种资源，并在不断缩小的安全区域内对抗其他玩家，让自己生存到最后。",
+            "seo_keywords":"战地5下载,战地5官方下载",
+            "banner_img":"../img/zdfy5.jpg"
+        },{
+            "id": "6",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/game_shengge.png'>",
+            "explain":"《圣歌(Anthem)》是由BioWare埃德蒙顿工作室制作，EA发行的一款融合RPG叙事风格+大型多人在线的网络游戏，包括ARPG、MMO游戏和Bioware的典型叙事风格。游戏以第三人称视角建构一个崭新的科幻世界。玩家将在《圣歌》的世界中扮演一名自由佣兵，穿上可以自由自定义的外骨骼装置，和线上的伙伴一同在广大的开放世界中冒险。生动且充满高度动态的开放世界中，将随时发生各种不同的事件，包含野生怪物的来袭、天候的转变等，玩家可以藉由外装甲带来的能力上天下海，在海陆空自由的冒险探索。",
+            "feature":" 游侠号<br>最全面的标枪机甲，你能夠顺畅地从进站转换至强大的远程射击。装备点击战锤来以大量点击攻击敌人，或是对数十个移动中的目标发射微型飞弹。召集你的队友们并减少他们的装备冷却，然后部署冰霜与追踪手榴弹来进行有效的群体控制。<br>巨像号<br>高耸的巨像号是你的全面战争机器。此机甲设计包含装载炮弹、外装甲和火焰喷射器，它还能夠使用近战攻击砸倒任何大小的敌人并使其无法抵御接下來的攻击。对于那些喜欢蛮力而非敏捷的人，巨像号是你最完美的标枪机甲选择。<br>截击号<br>截击号的小型、流线型设计最适合远距离侦察、渗透与暗杀。以双匕首造成大量伤害并逆转局面。轻巧的装甲让你能夠快速地游走于战斗之中并利用敌人的弱点。",
+            "course":" <img style='width: 800px;' src='../img/sgjc.png' alt='圣歌(Anthem)在雷神加速器客户端使用教程'>",
+            "seo_title":"【圣歌(Anthem)下载】圣歌(Anthem)官方高速下载 - 雷神下载",
+            "seo_desc":"圣歌(Anthem)是由BioWare埃德蒙顿工作室制作，EA发行的一款融合RPG叙事风格+大型多人在线的网络游戏，包括ARPG、MMO游戏和Bioware的典型叙事风格。游戏以第三人称视角建构一个崭新的科幻世界。玩家将在《圣歌》的世界中扮演一名自由佣兵，穿上可以自由自定义的外骨骼装置，和线上的伙伴一同在广大的开放世界中冒险。 生动且充满高度动态的开放世界中，将随时发生各种不同的事件，包含野生怪物的来袭、天候的转变等，玩家可以藉由外装甲带来的能力上天下海，在海陆空自由的冒险探索。",
+            "seo_keywords":"圣歌(Anthem)下载,圣歌(Anthem)官方下载",
+            "banner_img":"../img/sg.jpg"
+        },{
+            "id": "7",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/steam.png'>",
+            "explain":"Steam平台是Valve公司聘请BitTorrent(BT下载)发明者布拉姆·科恩亲自开发设计的游戏平台。<br/>Steam游戏平台是目前全球最大的综合性数字发行平台之一。",
+            "feature":"  Steam平台玩家可以在该平台购买游戏、软件、下载、讨论、上传、分享、单人或与好友共同游戏。<br/>Steam平台国内支持支付宝、微信等支付工具，是游戏玩家、爱好者必备的游戏平台。",
+            "course":"<img style='width: 800px;' src='../img/steamjc.jpg' alt='Steam游戏在雷神加速器客户端使用教程'>",
+            "seo_title":"【Steam客户端】高速下载 - 雷神下载",
+            "seo_desc":"Steam平台是Valve公司聘请BitTorrent(BT下载)发明者布拉姆·科恩亲自开发设计的游戏平台。Steam游戏平台是目前全球最大的综合性数字发行平台之一。",
+            "seo_keywords":"Steam游戏，Steam官网，Steam游戏平台，Steam下载",
+            "banner_img":"../img/steam.jpg"
+        },{
+            "id": "8",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/orgin.png'>",
+            "explain":"Origin游戏平台由美国艺电游戏公司（Electronic Arts Inc，简称EA）于2011年正式发布，EA重金打造的全方位游戏社交平台，集游戏数字版购买、实体版激活、下载、数据云存储、社交等功能于一体，并且正在逐步增加更多功能。",
+            "feature":" Origin以自身非常优秀的独占游戏而闻名，玩家们耳熟能详的战地系列、极品飞车、星球大战、FIFA系列以及近期火爆的APEX和圣歌均为EA旗下游戏并在origin商店出售和下载。",
+            "course":"<img style='width: 800px;' src='../img/originjc.jpg' alt='Origin游戏在雷神加速器客户端使用教程'>",
+            "seo_title":"【【Orgin客户端】高速下载 - 雷神下载",
+            "seo_desc":"Origin游戏平台由美国艺电游戏公司（Electronic Arts Inc，简称EA）于2011年正式发布，EA重金打造的全方位游戏社交平台，集游戏数字版购买、实体版激活、下载、数据云存储、社交等功能于一体，并且正在逐步增加更多功能。",
+            "seo_keywords":"Origin游戏，Origin官网，Origin游戏平台，Origin下载",
+            "banner_img":"../img/orginbanner1.jpg"
+        },{
+            "id": "9",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/wegamee.png'>",
+            "explain":"WeGame游戏平台面向全球及国内玩家，直接将游戏开发者与用户连接起来，为两者创造更多的沟通与互动。WeGame平台提供一站式服务，包括游戏的资讯、购买、下载、助手、直播和社区功能。Wegame提供优质本地化服务，包括优质的汉化、社交互动，以及更加稳定快速的国服。",
+            "feature":" Wegame平台是国内游戏平台的代表，商店内主要以国产游戏为主，也有部分引进的中文化游戏，是中国玩家购买国产游戏的良好渠道。",
+            "course":"<img style='width: 800px;' src='../img/wegamejc.jpg' alt='Wegame游戏在雷神加速器客户端使用教程'>",
+            "seo_title":"【WeGame客户端】高速下载 - 雷神下载",
+            "seo_desc":"WeGame游戏平台面向全球及国内玩家，直接将游戏开发者与用户连接起来，为两者创造更多的沟通与互动。WeGame平台提供一站式服务，包括游戏的资讯、购买、下载、助手、直播和社区功能。Wegame提供优质本地化服务，包括优质的汉化、社交互动，以及更加稳定快速的国服。",
+            "seo_keywords":"Wegame游戏，Wegame官网，Wegame游戏平台，Wegame下载",
+            "banner_img":"../img/wegame.jpg"
+        },{
+            "id": "10",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/uplay.png'>",
+            "explain":"育碧娱乐软件公司是一家跨国的游戏制作、发行和代销商。它在全世界拥有23间游戏开发工作室。2008年它是欧洲第三大独立游戏开发商、北美第四独立出版商。",
+            "feature":"  Uplay平台中国区玩家能以更便宜的价格购买刺客信条系列、孤岛惊魂系列、英雄无敌系列、全境封锁、飙酷车神、看门狗、彩虹六号：围攻等大作。",
+            "course":"<img style='width: 800px;' src='../img/uplayjc.jpg' alt='Uplay游戏在雷神加速器客户端使用教程'>",
+            "seo_title":"【Uplay客户端】高速下载 - 雷神下载",
+            "seo_desc":"育碧娱乐软件公司是一家跨国的游戏制作、发行和代销商。它在全世界拥有23间游戏开发工作室。2008年它是欧洲第三大独立游戏开发商、北美第四独立出版商。",
+            "seo_keywords":"Uplay游戏，Uplay官网，Uplay游戏平台，Uplay下载",
+            "banner_img":"../img/uplay.jpg"
+        },{
+            "id": "11",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/gog.png'>",
+            "explain":"GOG全称Good Old Game,，是由波兰公司CD Projekt(制作了极具口碑的巫师系列游戏)建立的游戏销售平台，一开始主要整理重制一些老游戏，以其极低的价格和丰富的赠品大受欢迎，现在也发售一些新游戏，该平台最大的特点是其销售的游戏都不加DRM(数字版权控制)即反盗版机制。",
+            "feature":" GOG游戏平台与其他平台略有不同，GOG上有许多老游戏，而且这些游戏均没有数字版权管理（DRM）的限制，也就是说这些产品没有下载/安装次数的限制，用者可以把文件复制/安装到任意数量的电脑或其他装置上，并且不需要安装额外的客户端软件（例如Steam或Origin）就能使用这些产品。",
+            "course":"<img style='width: 800px;' src='../img/gogjc.jpg' alt='GOG游戏在雷神加速器客户端使用教程'>",
+            "seo_title":"【GOG客户端】高速下载 - 雷神下载",
+            "seo_desc":"GOG全称Good Old Game,，是由波兰公司CD Projekt(制作了极具口碑的巫师系列游戏)建立的游戏销售平台，一开始主要整理重制一些老游戏，以其极低的价格和丰富的赠品大受欢迎，现在也发售一些新游戏，该平台最大的特点是其销售的游戏都不加DRM(数字版权控制)即反盗版机制。",
+            "seo_keywords":"GOG游戏，GOG官网，GOG游戏平台，GOG下载",
+            "banner_img":"../img/gog.jpg"
+        },{
+            "id": "12",
+            "info_img_url": "<img class='f_left' style='width: 272px;height: 272px;' src='../img/epic-game.png'>",
+            "explain":"Epic Games, Inc.亦称作Epic，其前身为Epic MegaGames，是一家美国电子游戏开发公司，位于卡瑞，现与中国腾讯合伙。最有名的技术为自家虚幻系列游戏所采用的虚幻引擎，以及Xbox 360上的《战争机器》系列游戏。",
+            "feature":"  EPIC Games是近十年来最富盛名的游戏制作团队之一，主要是因为旗下最为畅销的《战争机器》系列。团队研发的虚幻3引擎为无数的游戏制作团队所采用。2011年，EPIC Games发售的《战争机器3》引来了业界的广泛好评。代表作品另有《子弹风暴》、《堡垒之夜》等。",
+            "course":"<img style='width: 800px;' src='../img/epicjc.jpg' alt='Epic Games游戏在雷神加速器客户端使用教程'>",
+            "seo_title":"【Epic Games客户端】高速下载 - 雷神下载",
+            "seo_desc":"Epic Games, Inc.亦称作Epic，其前身为Epic MegaGames，是一家美国电子游戏开发公司，位于卡瑞，现与中国腾讯合伙。最有名的技术为自家虚幻系列游戏所采用的虚幻引擎，以及Xbox 360上的《战争机器》系列游戏。",
+            "seo_keywords":"Epic Games游戏，Epic Games官网，Epic Games游戏平台，Epic Games下载",
+            "banner_img":"../img/epic.jpg"
+        }]
+    }
+}

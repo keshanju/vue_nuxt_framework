@@ -1,0 +1,162 @@
+{
+    "code": 0,
+    "msg": "成功获取",
+    "data": {
+        "per_page": "9",
+        "total": 3,
+        "current_page": 1,
+        "last_page": 1,
+        "list": {
+            "Steam": [
+            ],
+            "Origin": [
+                {
+                    "id": "1",
+                    "list_img_url": "./img/apex.png",
+                    "platform_label": "Origin",
+                    "down_url": "",
+                    "title": "《APEX英雄》极速下载",
+                    "human_hot": 56176,
+                    "online": 1,
+                    "file_size": "21G",
+                    "game_update_time": "2019-2-20",
+                   "version":"0.0"
+                },
+                {
+                    "id": "5",
+                    "list_img_url": "./img/zd5.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/battlefieldv/BattlefieldV.rar",
+                    "title": "《战地风云5》极速下载",
+                    "human_hot": 2662,
+                    "online": 1,
+                    "file_size": "55.25G",
+                    "game_update_time": "2019-2-20",
+                   "version":"0.0"
+                },
+                {
+                    "id": "6",
+                    "list_img_url": "./img/sg.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/anthem/Anthem.rar",
+                    "title": "《圣歌(Anthem)》极速下载",
+                    "human_hot": 3329,
+                    "online": 1,
+                    "file_size": "51.04G",
+                    "game_update_time": "2019-2-20",
+                   "version":"0.0"
+                }
+            ],
+            "Uplay": [],
+            "Wegame": [],
+            "GOG": [],
+            "EpicGames": [],
+            "PlatForm": [
+                {
+                    "id": 7,
+                    "title": "《Steam客户端》极速下载",
+                    "file_size": "1.5MB",
+                    "list_img_url": "./img/steam01.png",
+                    "down_url": "http://pcgamedn.leigod.com/Steam/SteamSetup.exe",
+                    "online": 1,
+                    "human_hot": 62541,
+                    "game_update_time": "2019-2-28",
+                   "version":"0.0"
+                },
+                {
+                    "id": 8,
+                    "title": "《Origin客户端》极速下载",
+                    "file_size": "60.46MB",
+                    "list_img_url": "./img/orgin01.png",
+                    "down_url": "http://pcgamedn.leigod.com/Origin/OriginThinSetup.exe",
+                    "online": 1,
+                    "human_hot": 89561,
+                    "game_update_time": "2019-2-28",
+                   "version":"0.0"
+                },
+                {
+                    "id": 9,
+                    "title": "《Wegame客户端》极速下载",
+                    "file_size": " 3.95MB",
+                    "list_img_url": "./img/wegame.png",
+                    "down_url": "http://pcgamedn.leigod.com/Wegame/WeGameMiniLoader.3.6.1.5080.gw.exe",
+                    "online": 1,
+                    "human_hot": 1021,
+                    "game_update_time": "2019-2-28",
+                   "version":"0.0"
+                },
+                {
+                    "id": 10,
+                    "title": "《Uplay客户端》极速下载",
+                    "file_size": "85.40MB",
+                    "list_img_url": "./img/uplay01.png",
+                    "down_url": "http://pcgamedn.leigod.com/Uplay/UplayInstaller.exe",
+                    "online": 1,
+                    "human_hot": 58943,
+                    "game_update_time": "2019-2-28",
+                   "version":"0.0"
+                },
+                {
+                    "id": 11,
+                    "title": "《GOG客户端》极速下载",
+                    "file_size": "183.08MB",
+                    "list_img_url": "./img/gog01.png",
+                    "down_url": "http://pcgamedn.leigod.com/GOG/setup_galaxy_1.2.51.30.exe",
+                    "online": 1,
+                    "human_hot": 1028,
+                    "game_update_time": "2019-2-28",
+                   "version":"0.0"
+                },
+                {
+                    "id": 12,
+                    "title": "《Epic Games 客户端》极速下载",
+                    "file_size": "32.09MB",
+                    "list_img_url": "./img/epic-game01.png",
+                    "down_url": "http://pcgamedn.leigod.com/EpicGamesStore/EpicInstaller-9.7.0-fortnite-4b7428348204445193ff8d806debfde9.msi",
+                    "online": 1,
+                    "human_hot": 998,
+                    "game_update_time": "2019-2-28",
+                   "version":"0.0"
+                }
+            ],
+            "Other": [
+                {
+                    "id": "2",
+                    "list_img_url": "./img/league-h.png",
+                    "platform_label": "Other",
+                    "down_url": "http://pcgamedn.leigod.com/lolhf/LOLHF.rar",
+                    "title": "《英雄联盟LOL》韩服极速下载",
+                    "human_hot": 8112,
+                    "online": 1,
+                    "file_size": "9G",
+                    "game_update_time": "2019-2-20",
+                   "version":"0.0"
+                },
+                {
+                    "id": "3",
+                    "list_img_url": "./img/league-m.png",
+                    "platform_label": "Other",
+                    "down_url": "http://pcgamedn.leigod.com/lolmf/LOLMF.rar",
+                    "online": 1,
+                    "title": "《英雄联盟LOL》美服极速下载",
+                    "human_hot": 1129,
+                    "file_size": "9G",
+                    "game_update_time": "2019-2-20",
+                   "version":"0.0"
+                },
+                {
+                    "id": "4",
+                    "list_img_url": "./img/pubg.png",
+                    "platform_label": "Other",
+                    "down_url": "http://pcgamedn.leigod.com/pubglite/PUBGLite.rar",
+                    "online": 1,
+                    "title": "《绝地求生轻量版PUBG lite》极速下载",
+                    "human_hot": 16615,
+                    "file_size": "1.94G",
+                    "game_update_time": "2019-2-20",
+                   "version":"0.0"
+                }
+            ]
+        }
+    }
+}

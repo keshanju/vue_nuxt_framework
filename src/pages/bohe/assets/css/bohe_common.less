@@ -1,0 +1,504 @@
+@BgimgUrl: "../images"; // 图片根路径
+@main_width: 1280px; // 首页以及其他页面（除去用户中心内容宽度）
+@user_width: 1200px; // 用户中心内容宽度
+/**** 颜色 *****/
+@baseColor: #ffffff; //  默认标签颜色
+@logo_font: #5198ff; //  薄荷主题色
+@btn_bg: #ffd33e; //按钮背景色
+@btn_bg_hover: #ffdc67; //按钮hover背景色
+@btn_white_hover: #f6f6f6; //白色按钮hover背景色
+@container_bg: #363437; //套餐容器背景
+@box_bg: #2b2a2a; //充值盒子背景
+@box_border_active: #ffe15d; //hover的盒子边框颜色
+@box_shadow_active: #ffd000; //hover的盒子阴影颜色
+@pay_font: #fcdb55; //支付的金额颜色
+@alipay_font: #10a3e8; //支付宝主体色调
+@wechat_font: #00c800; //微信主体色调
+@package_number: #ffc713; //套餐的数字颜色
+@white: #fff; //白色
+@black: #333; //黑色
+@gray: #838383; //灰色
+@input_border: #dcdfe6; //输入框边框颜色
+
+/**** 字体大小 *****/
+@font_small: 12px;
+@font_normal: 14px;
+@font_big: 16px;
+/**** 字体粗细 *****/
+@f_weight_normal: normal;
+@f_weight_bold: bold;
+@f_weight_bolder: bolder;
+
+/**
+    位置函数，通过设定参数来动态改变元素间的距离
+ */
+
+.margin_fn(@t:0,@r:0,@b:0,@l:0) {
+    margin: @arguments;
+}
+
+.padding_fn(@t:0,@r:0,@b:0,@l:0) {
+    padding: @arguments;
+}
+
+/**
+    分割虚线
+ */
+.solid_dot_line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #525252;
+    margin: 15px auto;
+}
+
+/**
+    分割实线
+ */
+.solid_line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px solid @black;
+    margin: 10px auto;
+}
+
+/**
+    段落文字缩进
+ */
+.text_indent {
+    text-indent: 2em;
+}
+
+.text_indent_3em {
+    text-indent: 3em;
+}
+
+/**
+    文字对齐
+*/
+.text_left {
+    text-align: left;
+}
+
+.text_right {
+    text-align: right;
+}
+
+.text_center {
+    text-align: center;
+}
+
+//  公共按钮
+.public_btn {
+    padding: 5px 12px;
+    font-size: 14px;
+    color: #fff;
+    box-sizing: border-box;
+    background-color: #5198ff;
+    background-image: linear-gradient(36deg, #5198ff 0%, #4cfde5 100%);
+    border-radius: 4px;
+}
+
+.public_btn:hover {
+    background-color: #4cfde5;
+    background-image: linear-gradient(36deg, #4cfde5 0%, #5198ff 100%);
+    color: #fff;
+}
+
+//  BEM box+btn+transparent
+.btnbox-transparent {
+    width: 180px;
+    text-align: center;
+    padding: 14px 40px;
+    box-sizing: border-box;
+    border: 1px solid @baseColor;
+    border-radius: 5px;
+    font-size: 14px;
+    color: @baseColor;
+    font-weight: 700;
+}
+
+.btnbox-transparent:hover {
+    background-color: #5198ff;
+    background-image: linear-gradient(36deg, #5198ff 0%, #4cfde5 100%);
+    border: 1px solid transparent;
+    color: @baseColor;
+}
+
+//  公共按钮样式(白色)
+.white_btn {
+    padding: 5px 25px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: @font_normal;
+    color: @black;
+    border: 1px solid @gray;
+    border-radius: 6px;
+    background: @white;
+    cursor: pointer;
+}
+
+.white_btn:hover {
+    background: @btn_bg_hover;
+    border: 1px solid transparent;
+}
+
+//  弹出层按钮样式(主题颜色)
+.dialog_btn {
+    padding: 5px 40px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: @font_normal;
+    color: @black;
+    border: 1px solid @btn_bg;
+    border-radius: 6px;
+    background: @btn_bg;
+    cursor: pointer;
+}
+
+//普通按钮
+.normal_btn {
+    min-width: 100px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border: 1px solid #d8d8d8;
+    border-radius: 2px;
+    cursor: pointer;
+    color: #666666;
+}
+
+.normal_btn_blue {
+    background: #5198ff;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    color: @baseColor;
+}
+
+.normal_btn:hover {
+    background: #5198ff;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    color: @baseColor;
+}
+
+/***********************  图片  *********/
+
+// 资讯图片填满父盒子样式
+.img_filter {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    border: none;
+}
+
+// 文字溢出隐藏
+.words_flow {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+// 鼠标移上小手
+.cursor_pointer {
+    cursor: pointer;
+}
+
+// 定位
+.pos_a {
+    position: absolute;
+}
+
+.pos_r {
+    position: relative;
+}
+
+/***********************  CSS一般效果  *********/
+
+// 元素隐藏
+.hide {
+    display: none;
+}
+
+.visible {
+    visibility: visible;
+}
+
+// 元素显示
+.show {
+    display: block;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+//hover手型
+.cursor {
+    cursor: pointer !important;
+}
+
+.no_cursor {
+    cursor: none !important;
+}
+
+.default_cursor {
+    cursor: default !important;
+}
+
+//遮罩层
+.shadow {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+html,
+body {
+    height: 100%;
+    -webkit-font-smoothing: antialiased; //苹果电脑字体优化，面向MacOSS
+}
+
+/***********************  标签样式  *********/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol, ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+}
+
+a:hover {
+    color: @logo_font;
+}
+
+img {
+    border: none;
+    vertical-align: middle;
+    max-width: none;
+}
+
+[v-cloak] {
+    display: none !important;
+}
+
+/**
+   针对IE布局应用的公用类
+*/
+.f_left {
+    float: left;
+}
+
+.f_right {
+    float: right;
+}
+
+.clear_fix {
+    overflow: hidden;
+    clear: both;
+}
+
+// 清除浮动
+.clearfix_a {
+    clear: both;
+    overflow: hidden;
+}
+
+//  数据为空时显示，（共用组件）
+.empty_box {
+    width: 100%;
+    text-align: center;
+}
+
+.empty_show {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.empty_img {
+    width: 92px;
+    height: 92px;
+}
+
+.empty_msg {
+    font-size: 12px;
+    color: #999;
+}
+
+/**
+    自定义动画库
+ */
+
+//  动画
+@-webkit-keyframes spin {
+    to {
+        -webkit-transform: rotate(1turn);
+        transform: rotate(1turn);
+    }
+}
+
+@keyframes spin {
+    to {
+        -webkit-transform: rotate(1turn);
+        transform: rotate(1turn);
+    }
+}
+
+@-webkit-keyframes up_down {
+    0% {
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+    }
+    50% {
+        -webkit-transform: translate3d(0, 8px, 0);
+        transform: translate3d(0, 8px, 0);
+    }
+    100% {
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+    }
+}
+
+@keyframes up_down {
+    0% {
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+    }
+    50% {
+        -webkit-transform: translate3d(0, 8px, 0);
+        transform: translate3d(0, 8px, 0);
+    }
+    100% {
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+    }
+}
+
+/**
+    项目封装组件样式，命名使用BEM命名规范，例如： .block-modifier_element，块中含块的话就依次嵌套，循环递进命名
+ */
+
+//  一般公用样式
+
+.center_auto {
+    width: 1200px !important;
+    margin: 20px auto;
+    background-color: #eee;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 5px #333;
+}
+
+//  盒子背景色和圆角
+.white_box_radius {
+    background: #fff;
+    border-radius: 5px;
+}
+
+//提示弹窗
+.public_dialog {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 10;
+}
+
+.public__dialog_out {
+    position: absolute;
+    left: 50%;
+    top: 180px;
+    margin-left: -200px;
+    opacity: 0;
+    transition: all 0.3s;
+}
+
+.public__dialog_in {
+    top: 200px;
+    opacity: 1;
+    transition: all 0.3s;
+}
+
+.public_dialog_model {
+    width: 400px;
+    padding: 50px 0;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.dialog_close_box {
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    position: absolute;
+    right: 8px;
+    top: 5px;
+    cursor: pointer;
+}
+
+//  start图片+描述，上下布局--参照官网首页资讯列表
+.graphicbox {
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+.graphicbox:hover {
+    -webkit-transform: translateY(-2px);
+    -ms-transform: translateY(-2px);
+    transform: translateY(-2px);
+    -webkit-box-shadow: 0 1px 4px 2px #E2DDD2;
+    box-shadow: 0 1px 4px 2px #E2DDD2;
+}
+
+.graphicbox > a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.graphicbox-cell .graphicbox-cell_txt {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.graphicbox-cell .graphicbox-cell_txt a {
+    font-size: 16px;
+    color: #fff;
+    font-weight: lighter;
+}
+
+.graphicbox-cell .graphicbox-cell_txt p {
+    margin: 5px 0 0;
+    font-size: 12px;
+    color: #b0afaf;
+}
+
+//  展示图片
+.graphicbox-cell_img {
+
+}
+
+//  内置icon
+.graphicbox-l_icon {
+
+}

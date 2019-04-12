@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+.nuxt
+.idea/
+www
+.history/
+www_leishen_xiazai
+www_leishen
+src/pages/xiazai/static/config.json

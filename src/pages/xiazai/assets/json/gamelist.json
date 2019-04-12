@@ -1,0 +1,380 @@
+{
+    "code": 0,
+    "msg": "成功获取",
+    "data": {
+        "per_page": "9",
+        "total": 30,
+        "current_page": 1,
+        "last_page": 1,
+        "list": {
+            "Steam": [
+            ],
+            "Origin": [
+                {
+                    "id": "1",
+                    "list_img_url": "./img/apex.png",
+                    "platform_label": "Origin",
+                    "down_url": "",
+                    "title": "《APEX英雄》极速下载",
+                    "human_hot": 61345,
+                    "online": 1,
+                    "file_size": "21G",
+                    "game_update_time": "2019-2-20",
+                    "version":"V3.0.0"
+                },
+                {
+                    "id": "5",
+                    "list_img_url": "./img/zd5.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/battlefieldv/BattlefieldV.rar",
+                    "title": "《战地风云5》极速下载",
+                    "human_hot": 35624,
+                    "online": 1,
+                    "file_size": "50.7G",
+                    "game_update_time": "2019-2-20",
+                    "version":"V24104"
+                },
+                {
+                    "id": "6",
+                    "list_img_url": "./img/sg.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/anthem/Anthem.rar",
+                    "title": "《圣歌(Anthem)》极速下载",
+                    "human_hot": 9868,
+                    "online": 1,
+                    "file_size": "48.9G",
+                    "game_update_time": "2019-2-20",
+                    "version":"V1.0.3.00"
+                },
+                {
+                    "id": "14",
+                    "list_img_url": "./img/origin/fifa18.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/FIFA18/FIFA18.rar",
+                    "title": "《FIFA 18》极速下载",
+                    "human_hot": 1056,
+                    "online": 1,
+                    "file_size": "34.17G",
+                    "game_update_time": "2019-3-20",
+                    "version":"V3792815"
+                },
+                {
+                    "id": "15",
+                    "list_img_url": "./img/origin/fifa19.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/FIFA19/FIFA19.rar",
+                    "title": "《FIFA 19》极速下载",
+                    "human_hot": 2139,
+                    "online": 1,
+                    "file_size": "33.11G",
+                    "game_update_time": "2019-3-20",
+                    "version":"V3917185"
+                },
+                {
+                    "id": "16",
+                    "list_img_url": "./img/origin/jpfc.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/NeedforSpeed/NeedforSpeed.rar",
+                    "title": "《极品飞车20：复仇》极速下载",
+                    "human_hot": 6251,
+                    "online": 1,
+                    "file_size": "11.17G",
+                    "game_update_time": "2019-3-20",
+                    "version":"V1.3.0.0"
+                },
+                {
+                    "id": "17",
+                    "list_img_url": "./img/origin/tf1.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/Titanfall/Titanfall.rar",
+                    "title": "《泰坦天降 I》极速下载",
+                    "human_hot": 2056,
+                    "online": 1,
+                    "file_size": "38.06G",
+                    "game_update_time": "2019-3-20",
+                    "version":"V1.0.10.1"
+                },
+                {
+                    "id": "18",
+                    "list_img_url": "./img/origin/tf2.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/Titanfall2/Titanfall2.rar",
+                    "title": "《泰坦天降 2》极速下载",
+                    "human_hot": 18564,
+                    "online": 1,
+                    "file_size": "44.37G",
+                    "game_update_time": "2019-3-20",
+                    "version":"V2.0.11.0"
+                },
+                {
+                    "id": "19",
+                    "list_img_url": "./img/origin/tcst.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/AwayOut/AWayOut.rar",
+                    "title": "《逃出生天》极速下载",
+                    "human_hot": 1562,
+                    "online": 1,
+                    "file_size": "20.70G",
+                    "game_update_time": "2019-3-20",
+                    "version":"V1.0.62"
+                },
+                {
+                    "id": "20",
+                    "list_img_url": "./img/origin/xqdz.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/StarWarsBattlefrontII/StarWarsBattlefrontII.rar",
+                    "title": "《星球大战前线 Ⅱ》极速下载",
+                    "human_hot": 12023,
+                    "online": 1,
+                    "file_size": "69.34G",
+                    "game_update_time": "2019-3-20",
+                    "version":"V2.70.17634"
+                },
+                {
+                    "id": "21",
+                    "list_img_url": "./img/origin/zd1.png",
+                    "platform_label": "Origin",
+                    "down_url": "http://pcgamedn.leigod.com/battlefield1/Battlefield1.rar",
+                    "title": "《战地 1》极速下载",
+                    "human_hot": 7564,
+                    "online": 1,
+                    "file_size": "63.06G",
+                    "game_update_time": "2019-3-20",
+                    "version":"V24116"
+                }
+            ],
+            "Uplay": [
+                {
+                    "id": "13",
+                    "list_img_url": "./img/qj.png",
+                    "platform_label": "Uplay",
+                    "down_url": "http://pcgamedn.leigod.com/TomClancysTheDivision2/TomClancysTheDivision2.rar",
+                    "title": "《全境封锁2》极速下载",
+                    "human_hot": 23253,
+                    "online": 1,
+                    "file_size": "40.45G",
+                    "game_update_time": "2019-3-15",
+                    "version":"V85.0.6025"
+                }
+            ],
+            "Wegame": [],
+            "GOG": [],
+            "EpicGames": [
+                {
+                    "id": 22,
+                    "list_img_url": "./img/epic/blzy.jpg",
+                    "platform_label": "EpicGames",
+                    "down_url": "http://pcgamedn.leigod.com/FortniteAS/Fortnite.rar",
+                    "title": "《堡垒之夜》亚服极速下载",
+                    "human_hot": 2532,
+                    "online": 1,
+                    "file_size": "42.41G",
+                    "game_update_time": "2019-3-27",
+                    "version":"V8.11-5442615"
+                }
+            ],
+            "zw": [
+                {
+                    "id": 26,
+                    "list_img_url": "./img/zw/swxf.png",
+                    "platform_label": "zw",
+                    "down_url": "http://pcgamedn.leigod.com/Overwatch/OverwatchAS.rar",
+                    "title": "《守望先锋》亚服极速下载",
+                    "human_hot": 12585,
+                    "online": 1,
+                    "file_size": "16.2G",
+                    "game_update_time": "2019-4-4",
+                    "version":"V1.34.0.1"
+                },
+                {
+                    "id": 27,
+                    "list_img_url": "./img/zw/lscs.png",
+                    "platform_label": "zw",
+                    "down_url": "http://pcgamedn.leigod.com/HearthStone/HearthstoneAS.rar",
+                    "title": "《炉石传说》亚服极速下载",
+                    "human_hot": 14713,
+                    "online": 1,
+                    "file_size": "2.39G",
+                    "game_update_time": "2019-4-4",
+                    "version":"V13.4.0"
+                },
+                {
+                    "id": 28,
+                    "list_img_url": "./img/zw/mssj.png",
+                    "platform_label": "zw",
+                    "down_url": "http://pcgamedn.leigod.com/WorldofWarcraft/WorldofWarcraft.rar",
+                    "title": "《魔兽世界》亚服极速下载",
+                    "human_hot": 25138,
+                    "online": 1,
+                    "file_size": "53.0G",
+                    "game_update_time": "2019-4-10",
+                    "version":"V2.6.4"
+                },
+                {
+                    "id": 29,
+                    "list_img_url": "./img/zw/fbyx.png",
+                    "platform_label": "zw",
+                    "down_url": "http://pcgamedn.leigod.com/HeroesoftheStorm/HeroesoftheStorm.rar",
+                    "title": "《风暴英雄》亚服极速下载",
+                    "human_hot": 9982,
+                    "online": 1,
+                    "file_size": "12.2G",
+                    "game_update_time": "2019-4-10",
+                    "version":"V2.44.0"
+                },
+                {
+                    "id": 30,
+                    "list_img_url": "./img/zw/hsbhs.png",
+                    "platform_label": "zw",
+                    "down_url": "http://pcgamedn.leigod.com/Diablo3/DiabloIII.rar",
+                    "title": "《暗黑破坏神III》亚服极速下载",
+                    "human_hot": 8611,
+                    "online": 1,
+                    "file_size": "15.4G",
+                    "game_update_time": "2019-4-10",
+                    "version":"V8.1.5"
+                }
+            ],
+            "PlatForm": [
+                {
+                    "id": 7,
+                    "title": "《Steam客户端》极速下载",
+                    "file_size": "1.5MB",
+                    "list_img_url": "./img/steam01.png",
+                    "down_url": "http://pcgamedn.leigod.com/Steam/SteamSetup.exe",
+                    "online": 1,
+                    "human_hot": 6123,
+                    "game_update_time": "2019-2-28",
+                    "version":"V4.97.72.56"
+                },
+                {
+                    "id": 8,
+                    "title": "《Origin客户端》极速下载",
+                    "file_size": "60.46MB",
+                    "list_img_url": "./img/orgin01.png",
+                    "down_url": "http://pcgamedn.leigod.com/Origin/OriginThinSetup.exe",
+                    "online": 1,
+                    "human_hot": 89561,
+                    "game_update_time": "2019-2-28",
+                    "version":"V10.5.35"
+                },
+                {
+                    "id": 9,
+                    "title": "《Wegame客户端》极速下载",
+                    "file_size": " 3.95MB",
+                    "list_img_url": "./img/wegame.png",
+                    "down_url": "http://pcgamedn.leigod.com/Wegame/WeGameMiniLoader.3.6.1.5080.gw.exe",
+                    "online": 1,
+                    "human_hot": 1021,
+                    "game_update_time": "2019-2-28",
+                    "version":"V3.21.3"
+                },
+                {
+                    "id": 10,
+                    "title": "《Uplay客户端》极速下载",
+                    "file_size": "85.40MB",
+                    "list_img_url": "./img/uplay01.png",
+                    "down_url": "http://pcgamedn.leigod.com/Uplay/UplayInstaller.exe",
+                    "online": 1,
+                    "human_hot": 62142,
+                    "game_update_time": "2019-2-28",
+                    "version":"V85.0.6025"
+                },
+                {
+                    "id": 11,
+                    "title": "《GOG客户端》极速下载",
+                    "file_size": "183.08MB",
+                    "list_img_url": "./img/gog01.png",
+                    "down_url": "http://pcgamedn.leigod.com/GOG/setup_galaxy_1.2.51.30.exe",
+                    "online": 1,
+                    "human_hot": 1028,
+                    "game_update_time": "2019-2-28",
+                    "version":"V1.2.51"
+                },
+                {
+                    "id": 12,
+                    "title": "《Epic Games 客户端》极速下载",
+                    "file_size": "32.09MB",
+                    "list_img_url": "./img/epic-game01.png",
+                    "down_url": "http://pcgamedn.leigod.com/EpicGamesStore/EpicInstaller-9.7.0-fortnite-4b7428348204445193ff8d806debfde9.msi",
+                    "online": 1,
+                    "human_hot": 998,
+                    "game_update_time": "2019-2-28",
+                    "version":"V9.10.1"
+                },
+                {
+                    "id": 23,
+                    "title": "《Stove 客户端》极速下载",
+                    "file_size": "2.25M",
+                    "list_img_url": "./img/stove.png",
+                    "down_url": "http://pcgamedn.leigod.com/Stove/STOVESetup_LIVE_ver0_3.exe",
+                    "online": 1,
+                    "human_hot": 600,
+                    "game_update_time": "2019-3-27",
+                    "version":"V0.0.4.76"
+                },
+                {
+                    "id": 25,
+                    "title": "《战网 客户端》极速下载",
+                    "file_size": "2.81M",
+                    "list_img_url": "./img/zw.png",
+                    "down_url": "http://pcgamedn.leigod.com/Battle/Battle.exe",
+                    "online": 1,
+                    "human_hot": 1050,
+                    "game_update_time": "2019-4-4",
+                    "version":"V1.13.2"
+                }
+            ],
+            "Other": [
+                {
+                    "id": "2",
+                    "list_img_url": "./img/league-h.png",
+                    "platform_label": "Other",
+                    "down_url": "http://pcgamedn.leigod.com/lolhf/LOLHF.rar",
+                    "title": "《英雄联盟LOL》韩服极速下载",
+                    "human_hot": 21425,
+                    "online": 1,
+                    "file_size": "14.6G",
+                    "game_update_time": "2019-2-20",
+                    "version":"V9.5"
+                },
+                {
+                    "id": "3",
+                    "list_img_url": "./img/league-m.png",
+                    "platform_label": "Other",
+                    "down_url": "http://pcgamedn.leigod.com/lolmf/LOLMF.rar",
+                    "online": 1,
+                    "title": "《英雄联盟LOL》美服极速下载",
+                    "human_hot": 5230,
+                    "file_size": "21G",
+                    "game_update_time": "2019-2-20",
+                    "version":"V9.2"
+                },
+                {
+                    "id": "4",
+                    "list_img_url": "./img/pubg.png",
+                    "platform_label": "Other",
+                    "down_url": "http://pcgamedn.leigod.com/pubglite/PUBGLite.rar",
+                    "online": 1,
+                    "title": "《绝地求生轻量版PUBG lite》极速下载",
+                    "human_hot": 10532,
+                    "file_size": "1.94G",
+                    "game_update_time": "2019-2-20",
+                    "version":"V0.7.3.32"
+                },
+                {
+                    "id": "24",
+                    "list_img_url": "./img/hssm.png",
+                    "platform_label": "Other",
+                    "down_url": "http://pcgamedn.leigod.com/RemasieredTW/RemasieredTW.rar",
+                    "online": 1,
+                    "title": "《黑色沙漠》台服极速下载",
+                    "human_hot": 3765,
+                    "file_size": "30.3G",
+                    "game_update_time": "2019-3-27",
+                    "version":"V1.114.109"
+                }
+            ]
+        }
+    }
+}

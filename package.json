@@ -1,0 +1,48 @@
+{
+    "name": "nxvue",
+    "build_type": 1,
+    "version": "1.0.0",
+    "scripts": {
+        "lsdev": "nuxt",
+        "bhdev": "nuxt",
+        "lsdowndev": "nuxt",
+
+        "ls-build": "nuxt build",
+        "bh-start": "nuxt start",
+        "lsdown-build": "nuxt build",
+
+        "lsall-dev": "nuxt generate && node replace_node.js && node leishen_node.js",
+        "lsall-vf": "nuxt generate && node replace_node.js && node leishen_node.js",
+        "lsall": "nuxt generate && node replace_node.js && node leishen_node.js",
+
+        "lsnotice-dev": "nuxt generate && node replace_node.js && node leishen_node.js",
+        "lsnotice-vf": "nuxt generate && node replace_node.js && node leishen_node.js",
+        "lsnotice": "nuxt generate && node replace_node.js && node leishen_node.js",
+
+        "lsactivity-dev": "nuxt generate && node replace_node.js && node leishen_node.js",
+        "lsactivity-vf": "nuxt generate && node replace_node.js && node leishen_node.js",
+        "lsactivity": "nuxt generate && node replace_node.js && node leishen_node.js",
+        
+        "lszhuanti-dev": "nuxt generate && node replace_node.js",
+        "lszhuanti-vf": "nuxt generate && node replace_node.js",
+        "lszhuanti": "nuxt generate && node replace_node.js",
+
+        "bhall": "nuxt generate",
+
+        "lsdown-dev": "nuxt generate && node replace_node.js",
+        "lsdown-vf": "nuxt generate && node replace_node.js",
+        "lsdown": "nuxt generate && node replace_node.js"
+    },
+    "dependencies": {
+        "@nuxtjs/style-resources": "^0.1.1",
+        "axios": "^0.18.0",
+        "babel-polyfill": "^6.26.0",
+        "less": "^3.9.0",
+        "less-loader": "^4.1.0",
+        "nuxt": "^2.3.4",
+        "qrcode": "^1.3.3",
+        "rd": "^2.0.1",
+        "vue-axios": "^2.1.4",
+        "vue-i18n": "^8.7.0"
+    }
+}
